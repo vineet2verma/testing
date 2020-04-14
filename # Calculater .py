@@ -1,4 +1,4 @@
-# Calc function.
+# This is Calculater Project 
 from time import sleep
 def calc():
     add      =  lambda x,y : x + y
